@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Dynaxis</title><desc id="desc">Physics-grounded robotics simulation.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a1118"/><stop offset="1" stop-color="#17262f"/></linearGradient><linearGradient id="a"><stop stop-color="#73e6a5"/><stop offset="1" stop-color="#62b8ff"/></linearGradient></defs>
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<g opacity=".16" stroke="#87d9b1"><path d="M760 80h330M720 120h390M680 160h430M640 200h470M700 240h410M760 280h330"/><path d="M810 55v250M870 55v250M930 55v250M990 55v250M1050 55v250"/></g>
+<g transform="translate(875 84)" stroke="#73e6a5" stroke-width="8" stroke-linecap="round" fill="none"><circle cx="92" cy="34" r="26"/><path d="M92 62v76M92 85l-58 42M92 85l58 42M92 138l-42 84M92 138l42 84"/><circle cx="34" cy="127" r="8"/><circle cx="150" cy="127" r="8"/><circle cx="50" cy="222" r="8"/><circle cx="134" cy="222" r="8"/></g>
+<text x="70" y="125" fill="#91a5b2" font-family="Segoe UI,Arial" font-size="18" letter-spacing="5">ROBOTICS · PHYSICS · CONTROL</text>
+<text x="70" y="205" fill="#f4f7f9" font-family="Segoe UI,Arial" font-size="72" font-weight="800">DYNAXIS</text><rect x="70" y="224" width="395" height="5" rx="3" fill="url(#a)"/>
+<text x="70" y="270" fill="#c3d0d7" font-family="Segoe UI,Arial" font-size="25">Physics-grounded robotics simulation.</text><text x="70" y="307" fill="#80939f" font-family="Segoe UI,Arial" font-size="16">Articulated bodies · telemetry · control experiments · RL research</text>
+</svg>
